@@ -2,7 +2,7 @@
 
 By James Weaver & Amy Rodriguez
 
-Project: "Data_Science_KNN_Project.pdf"
+Project: "MAT_326___Finance_Firms.pdf"
 
 # Introduction
 Performed exploratory data analysis on the NBA playoffs dataset utilizing summary statistics, histograms, scatter,
